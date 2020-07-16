@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SOURCE="/tmp/clean-disk"
+SOURCE="/tmp/linuxSripts"
 FILE="limpar-disco.sh"
 DESTINY="/scripts/"
 

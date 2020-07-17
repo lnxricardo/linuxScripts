@@ -17,6 +17,7 @@ echo "Delete old logs"
 rm -f /var/log/httpd/access_log*.gz
 rm -f /var/log/httpd/error_log*.gz
 rm -f /var/log/asterisk/messages*.gz
+rm -f /var/log/asterisk/messages.*
 rm -f /var/log/asterisk/queue_log*.gz
 rm -f /var/log/httpd/error_log*.gz
 rm -f /var/log/khomp/old/*.log
